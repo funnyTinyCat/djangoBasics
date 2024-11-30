@@ -1,0 +1,1 @@
+Basics of django framework.
